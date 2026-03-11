@@ -77,5 +77,5 @@ Unityで制作した、「ブロック崩し×弾幕」ゲームです．
 ---
 
 ## 実行方法
-1. Buildフォルダをダウンロード
+1. [Buildフォルダ](https://drive.google.com/drive/folders/1MjDJ_JK1AAcdDlOfXOrETsgd7W7MONcC?usp=drive_link)をダウンロード
 2. BREAK&DODGE.exe を実行
