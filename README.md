@@ -79,3 +79,8 @@ Unityで制作した、「ブロック崩し×弾幕」ゲームです．
 ## 実行方法
 1. [Buildフォルダ](https://drive.google.com/drive/folders/1MjDJ_JK1AAcdDlOfXOrETsgd7W7MONcC?usp=drive_link)をダウンロード
 2. BREAK&DODGE.exe を実行
+
+---
+
+## 使用させていただいたアセット
+[PixelAdvnture1(UnityAssetStore)](https://marketplace.unity.com/packages/2d/characters/pixel-adventure-1-155360?locale=ja-JP&utm_source=chatgpt.com)
